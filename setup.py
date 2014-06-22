@@ -9,7 +9,7 @@ setup(
     scripts=['bin/youplay'],
     url='http://pypi.python.org/pypi/youplay',
     license='LICENSE.txt',
-    description='Extract who's and what's playing - artist(s) and track(s) - from a YouTube music video.',
+    description='Extract who and what is playing - artist(s) and track(s) - from a YouTube music video.',
     long_description=open('README.txt').read(),
     install_requires=[
         "google-api-python-client >= 1.2",
